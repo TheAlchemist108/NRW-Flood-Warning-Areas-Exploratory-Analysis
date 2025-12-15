@@ -60,3 +60,5 @@ python nrw_flood_analysis.py
 ***
 
 *Developed for advanced environmental data analysis | Compatible with Power BI, GIS integration*
+
+Data Source - https://datamap.gov.wales/layers/inspire-nrw:NRW_FLOOD_WARNING#download-metadata-section
