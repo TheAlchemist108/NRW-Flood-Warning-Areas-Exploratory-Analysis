@@ -30,13 +30,13 @@ Automated exploratory data analysis script analyzing NRW flood warning areas dat
 ✅ River/sea risk hotspots  
 ✅ Hierarchical parent structures
 ✅ Welsh name completeness (critical for NRW bilingual comms)
-✅ Data quality metrics for modeling readiness
+✅ Data quality metrics for modelling readiness
 ```
 
 ## 🛠️ Technical Details
 - **Language**: Python 3.x
 - **Dependencies**: `pandas` only
-- **Input**: `NRW_FLOOD_WARNING.csv`
+- **Input**: `NRW_FLOOD_WARNING.csv
 - **Output**: Console-formatted analysis report
 - **Runtime**: <5 seconds on standard hardware
 
